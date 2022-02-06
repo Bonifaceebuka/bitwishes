@@ -18,5 +18,12 @@ Please, ensure that you have NodeJS installed on your device.
 4. Run npx hardhat node to start your local ethereum Node.
 5. Run npx hardhat compile to compile the Smart Contract
 6. Run npx hardhat run scripts/deploy.js --network localhost to deploy the smart contract.
-10. Start the application with `npm run start`
+7. Start the application with `npm run start`
 	Visit localhost:3000/ to see the front-end of the application
+### The Screenshots of the front-end of the Dapp
+
+Visit https://bitwishes.herokuapp.com/ to see the live version of this application
+
+<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/UI.PNG">
+
+<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/UI2.PNG">
