@@ -24,6 +24,7 @@ Please, ensure that you have NodeJS installed on your device.
 
 Visit https://bitwishes.herokuapp.com/ to see the live version of this application
 
+<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/UI2.PNG">
+
 <img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/UI.PNG">
 
-<img src="https://github.com/Bonifaceebuka/bitwishes/blob/main/screenshots/UI2.PNG">
